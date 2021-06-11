@@ -1,0 +1,30 @@
+{
+  "name": "curd",
+  "version": "0.1.0",
+  "description": "",
+  "author": "",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vue": "^2.6.11",
+    "vue-axios": "^3.2.4"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "~4.5.13",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "bugs": {
+    "url": "https://github.com/Abhijeet414/curd/issues"
+  },
+  "homepage": "https://github.com/Abhijeet414/curd#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhijeet414/curd.git"
+  }
+}
